@@ -344,13 +344,17 @@ margin-right:10px;
 	margin-left:305px;
 	padding-left:20px;
 	border-radius:10px;	
+	position:relative;
+	height:250px;
 }
 .guest1{
 	color:#009641;
 	font-size:20px;
 }
 #znak1{
-	float:right;
+	position:absolute;
+	top:-3px;
+	right:10px;
 }
 #niz{
 	margin:0 auto;
