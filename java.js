@@ -8,7 +8,7 @@ function show1(argument1, input, block)
 		{
 			div.style.display = 'block';
 			input.value="Закрити калькулятор";
-            conteiner.style.height="585x";			
+            conteiner.style.height="585px";			
 		}
 		else
 		{
